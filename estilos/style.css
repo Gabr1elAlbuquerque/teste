@@ -76,11 +76,7 @@ main{
     border-radius: 0px 0px 10px 10px;
 }
 
-main h1{
-    font-size: 2em;
-}
-
-main h1, h2{
+main h2, h3{
     font-family: var(--fonte-android);
     color: var(--cor5);
     background-image: linear-gradient(to right, var(--cor1), transparent);
